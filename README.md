@@ -2,10 +2,12 @@
 - - - - - - - - - - - - - - - - - -- - - - - - - - 
 ### _Work with the data used to predict median house values in Californian districts_
 
--Random Forest Regressor for Housing Price Prediction
+- - - - - - - - - - - - - - - - -  - - - - - - - - -
 
--Perform 3-fold Drid Search cross validation 
+- Random Forest Regressor for Housing Price Prediction
 
--Comment and choose the best model
+- Perform 3-fold Drid Search cross validation 
 
--Explore the most important features of the best model
+- Comment and choose the best model
+
+- Explore the most important features of the best model
