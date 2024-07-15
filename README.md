@@ -6,7 +6,7 @@
 
 - Random Forest Regressor for Housing Price Prediction
 
-- Perform 3-fold Drid Search cross validation 
+- Perform 3-fold Grid Search cross validation 
 
 - Comment and choose the best model
 
